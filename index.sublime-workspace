@@ -1,0 +1,587 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"margin",
+				"margin-top"
+			],
+			[
+				"font",
+				"font-weight"
+			],
+			[
+				"padding",
+				"padding-left"
+			],
+			[
+				"padd",
+				"padding-bottom"
+			],
+			[
+				"margi",
+				"margin-top"
+			],
+			[
+				"border",
+				"border-radius"
+			],
+			[
+				"slid",
+				"slideDown	.slideDown()"
+			],
+			[
+				"mar",
+				"margin-top"
+			],
+			[
+				"in",
+				"inline-block"
+			],
+			[
+				"te",
+				"text-align"
+			],
+			[
+				"fo",
+				"font-weight"
+			],
+			[
+				"u",
+				"ul	Tag"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"blo",
+				"inline-block"
+			],
+			[
+				"height",
+				"height"
+			],
+			[
+				"color",
+				"color2"
+			],
+			[
+				"max",
+				"max-width"
+			],
+			[
+				"background",
+				"background-color"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"margin-",
+				"margin-top"
+			],
+			[
+				"font-size",
+				"font-size-adjust"
+			],
+			[
+				"i",
+				"inline-block"
+			],
+			[
+				"font-s",
+				"font-size"
+			],
+			[
+				"op",
+				"opacity"
+			],
+			[
+				"bord",
+				"border-color"
+			],
+			[
+				"add",
+				"addClass	.addClass()"
+			],
+			[
+				"th",
+				"Thread"
+			],
+			[
+				"po",
+				"pos-a	position: absolute;"
+			],
+			[
+				"tex",
+				"text-align"
+			],
+			[
+				"rem",
+				"removeClass	.removeClass()"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"pos",
+				"pos-a	position: absolute;"
+			],
+			[
+				"bo",
+				"bdf-of	border-fit: overflow;"
+			],
+			[
+				"sli",
+				"slideDown	.slideDown()"
+			],
+			[
+				"o",
+				"opacity"
+			],
+			[
+				"left",
+				"margin-left"
+			],
+			[
+				"toggle",
+				"toggleClass	.toggleClass()"
+			],
+			[
+				"backgro",
+				"background-size"
+			],
+			[
+				"ma",
+				"margin-top"
+			],
+			[
+				"mongo",
+				"mongomac"
+			],
+			[
+				"quote",
+				"quoteBody"
+			],
+			[
+				"inlinebl",
+				"inline-block"
+			],
+			[
+				"co",
+				"color"
+			],
+			[
+				"lef",
+				"padding-left"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"api",
+				"apiRoot"
+			],
+			[
+				"q",
+				"quotesArr"
+			],
+			[
+				"data",
+				"datatype"
+			],
+			[
+				"json",
+				"jsonp"
+			],
+			[
+				"auth",
+				"auth_admin"
+			],
+			[
+				"set",
+				"setInterval"
+			],
+			[
+				"parent_",
+				"parent_params"
+			],
+			[
+				"borde",
+				"border-color"
+			],
+			[
+				"board",
+				"boardClear"
+			],
+			[
+				"player",
+				"playerSelector"
+			],
+			[
+				"bk",
+				"background"
+			],
+			[
+				"st",
+				"style	Tag"
+			],
+			[
+				"img",
+				"img	Tag"
+			],
+			[
+				"di",
+				"div	<div>"
+			],
+			[
+				"ul",
+				"ul	Tag"
+			],
+			[
+				"p",
+				"p	<p>"
+			],
+			[
+				"a",
+				"a	<a>"
+			],
+			[
+				"im",
+				"img	Tag"
+			],
+			[
+				"b",
+				"body	<body>"
+			],
+			[
+				"tit",
+				"title	<title>"
+			],
+			[
+				"get",
+				"getWinner"
+			],
+			[
+				"computer",
+				"computerWins"
+			],
+			[
+				"rock",
+				"rock"
+			],
+			[
+				"paper",
+				"paper"
+			]
+		]
+	},
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "p",
+		"selected_items":
+		[
+			[
+				"p",
+				"Package Control: Install Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"color",
+				"Color Picker"
+			],
+			[
+				"pi",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 521.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/Mac/wdi/personal_site/js/scripts.js",
+		"/Users/Mac/wdi/personal_site/index.html",
+		"/Users/Mac/wdi/ct_skilltest_mac_wimberly/php/contact.php",
+		"/Users/Mac/wdi/ct_skilltest_mac_wimberly/index.html",
+		"/Users/Mac/wdi/ct_skilltest/html.html",
+		"/Users/Mac/wdi/personal_site/js/index.js",
+		"/Users/Mac/wdi/personal_site/css/custom.css",
+		"/Users/mac/Downloads/google-adwords-remarketing/googleadwords.php",
+		"/Users/Mac/wdi/personal_site/README.md",
+		"/Users/Mac/wdi/personal_site/assets/images/mw.web.res.pdf",
+		"/Users/Mac/wdi/personal_site/assets/images/ mw.res.partial2.4.27.jpg",
+		"/Users/Mac/wdi/tic.tac.doh/assets/main.js",
+		"/Users/Mac/wdi/tic.tac.doh/assets/main.css",
+		"/Users/Mac/wdi/tic.tac.doh/index.html",
+		"/Users/Mac/wdi/portfolio_main/js/index.js",
+		"/Users/Mac/wdi/portfolio_main/css/custom.css",
+		"/Users/Mac/wdi/portfolio_main/index.html",
+		"/Users/Mac/wdi/mac_libs/routes/api/maclibs.js",
+		"/Users/Mac/wdi/mac_libs/routes/twilio.js",
+		"/Users/Mac/wdi/mac_libs/views/index.ejs",
+		"/Users/Mac/wdi/mac_libs/public/javascripts/main.js",
+		"/Users/Mac/wdi/mac_libs/public/stylesheets/style.css",
+		"/Users/Mac/wdi/mac_libs/routes/index.js",
+		"/Users/Mac/wdi/mac_libs/app.js",
+		"/Users/Mac/wdi/mac_libs/models/maclib.js",
+		"/Users/Mac/wdi/mac_libs/package.json",
+		"/Users/Mac/wdi/mac_libs/public/javascripts/maintest.js",
+		"/Users/mac/.bash_profile",
+		"/Users/mac/.bashrc",
+		"/Users/Mac/wdi/tweet_smart/package.json",
+		"/Users/Mac/wdi/wdi-atx-3-class/w10/d04/angular_morning.md",
+		"/Users/Mac/Library/Application Support/Sublime Text 3/Packages/User/HTML.sublime-settings",
+		"/Users/Mac/Library/Application Support/Sublime Text 3/Packages/User/JavaScript.sublime-settings",
+		"/Users/Mac/wdi/tweet_smart/models/quote.js",
+		"/Users/Mac/wdi/tweet_smart/public/stylesheets/style.css",
+		"/Users/Mac/wdi/tweet_smart/views/index.ejs",
+		"/Users/Mac/wdi/tweet_smart/routes/api/v1/quotes.js",
+		"/Users/Mac/wdi/tweet_smart/public/javascripts/main.js",
+		"/Users/Mac/wdi/tweet_smart/routes/index.js",
+		"/Users/Mac/wdi/tweet_smart/app.js",
+		"/Users/Mac/wdi/tweet_smart/views/indextest.ejs",
+		"/Users/Mac/wdi/tweet_smart/public/quotes.txt",
+		"/Users/Mac/wdi/tweet_smart/routes/api/quotes.js",
+		"/Users/Mac/Library/Application Support/Sublime Text 3/Packages/HTML-CSS-JS Prettify/.jsbeautifyrc",
+		"/Users/Mac/wdi/tweet_smart/routes/users.js",
+		"/Users/Mac/wdi/tweetsmart/views/partials/head.ejs",
+		"/Users/Mac/wdi/tweetsmart/views/partials/header.ejs",
+		"/Users/Mac/wdi/tweetsmart/views/partials/footer.ejs",
+		"/Users/Mac/wdi/wdi-atx-3-hw/w08/d03/starter/stargazer/index.html",
+		"/Users/Mac/wdi/wdi-atx-3-hw/w08/d03/starter/stargazer/js/stargazer.js",
+		"/Users/Mac/wdi/wdi-atx-3-hw/w08/d03/starter/stargazer/js/jquery.js",
+		"/Users/Mac/wdi/wdi-atx-3-hw/w08/d03/starter/stargazer/index.htm",
+		"/Users/mac/.bash",
+		"/Users/Mac/Desktop/Elvis-Karate.jpg",
+		"/Users/Mac/wdi/input.txt",
+		"/Users/Mac/Library/Application Support/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/Users/Mac/code/wdi/tidy_bank/app/models/parent.rb",
+		"/Users/Mac/code/wdi/tidy_bank/Gemfile",
+		"/Users/Mac/code/wdi/tidy_bank/app/controllers/parents_controller.rb",
+		"/Users/Mac/code/wdi/wdi-atx-3-class/w04/d02/afternoon/superhero.rb",
+		"/Users/Mac/code/wdi/wdi-atx-3-class/w04/d03/afternoon/starter/Gemfile",
+		"/Users/Mac/code/wdi/wdi-atx-3-hw/w04/d01/starter/never_ending_story.rb",
+		"/Users/Mac/code/wdi/wdi-atx-3-hw/w03/d05/starter/currency_converter/currency_converter.js",
+		"/Users/Mac/code/wdi/wdi-atx-3-hw/w03/d05/starter/lunch_orders/lunch_orders.rb",
+		"/Users/Mac/code/wdi/wdi-class-lab/labw03/tic.tac.toe./assets/main.css",
+		"/Users/Mac/code/wdi/wdi-class-lab/labw03/tic.tac.toe./assets/Homer_Simpson_2006.png",
+		"/Users/Mac/code/wdi/wdi-class-lab/labw03/tic.tac.toe./index.html",
+		"/Users/Mac/code/wdi/wdi-class-lab/labw03/tic.tac.toe./assets/main.js",
+		"/Users/Mac/code/wdi/wdi-class-lab/labw03/tic.tac.toe./assets/backup.js",
+		"/Users/Mac/code/wdi/wdi-class-lab/labw03/tic.tac.toe./assets/backup.html",
+		"/Users/Mac/code/JS-Calc/main.css",
+		"/Users/Mac/code/wdi/wdi-atx-3-class/w03/d01/afternoon/styles.css",
+		"/Users/Mac/code/wdi/wdi-atx-3-class/w03/d01/afternoon/_beef.scss",
+		"/Users/Mac/code/wdi/wdi-atx-3-class/w03/d01/afternoon/styles.scss",
+		"/Users/Mac/code/wdi/wdi-atx-3-class/w03/d01/afternoon/starter/_beef.scss",
+		"/Users/mac/code/wdi/wdi-atx-3-class/w03/d01/afternoon/README.md",
+		"/Users/mac/code/wdi/wdi-atx-3-class/w03/d01/afternoon/starter/README.md",
+		"/Users/mac/code/wdi/wdi-atx-3-class/w03/d01/afternoon/solution/README.md",
+		"/Users/mac/code/wdi/wdi-atx-3-hw/w02/d05/readme.md",
+		"/Users/Mac/code/wdi/wdi-atx-3-class/w02/d04/morning/starter/README.md",
+		"/Users/Mac/code/wdi/wdi-atx-3-hw/w02/d03/tester.js",
+		"/Users/Mac/code/wdi/wdi-atx-3-hw/w02/d03/starter/deck_o_cards.js",
+		"/Users/Mac/code/wdi/wdi-atx-3-hw/w02/d03/readme.md",
+		"/Users/Mac/code/wdi/wdi-atx-3-hw/w02/d02/readme.md",
+		"/Users/Mac/code/wdi/wdi-atx-3-hw/w02/d02/starter/index.html",
+		"/Users/Mac/code/wdi/wdi-atx-3-hw/w02/d02/starter/js/main.js",
+		"/var/folders/jw/qyrn1lcj0654_nh_whg5p1zh0000gn/T/com.apple.iChat/Messages/Transfers/200px-Acephale1.gif",
+		"/Users/Mac/code/wdi/js_practice/index.html",
+		"/Users/Mac/code/wdi/js_practice/js/main.js",
+		"/Users/Mac/code/wdi/wdi-atx-3-class/w02/d02/morning/README.md",
+		"/Users/Mac/code/wdi/js_practice/js_practice",
+		"/Users/Mac/code/wdi/wdi-atx-3-hw/w02/d01/readme.md",
+		"/Users/Mac/code/wdi/wdi-atx-3-hw/w01/d03/starter/index.html",
+		"/Users/Mac/code/wdi/cold_day/haiku.txt",
+		"/Users/Mac/code/wdi/wdi-atx-3-hw/w01/d04/bootstrap-template.html",
+		"/Users/Mac/code/wdi/wdi-atx-3-hw/w01/d04/bootstrap-template-cdn.html",
+		"/Users/Mac/code/wdi/wdi-atx-3-hw/w01/d04/w01d04hw.html",
+		"/Users/mac/code/wdi/wdi-atx-3-hw/w01/d03/readme.md",
+		"/Users/Mac/code/wdi/wdi-class-lab/labw01d05/assets/ css/main.css",
+		"/Users/Mac/code/wdi/wdi-class-lab/index.html",
+		"/Users/Mac/code/wdi/wdi-atx-3-class/w01/d05/lab.w01.d05.html",
+		"/Users/Mac/code/wdi/wdi-atx-3-hw/w01/d04/readme.md",
+		"/Users/Mac/code/wdi/wdi-atx-3-hw/w01/d04/bingbong.html",
+		"/Users/Mac/code/wdi/wdi-atx-3-hw/w01/d03/starter/css/normalize.css",
+		"/Users/Mac/code/wdi/wdi-atx-3-hw/w01/d03/readme.md",
+		"/Users/Mac/code/wdi/wdi-atx-3-hw/w01/d03/starter/css/main.css",
+		"/Users/Mac/code/wdi/wdi-atx-3-class/w01/d03/morning/starter/index.html",
+		"/Users/mac/code/wdi/wdi-atx-3-class/w01/d03/morning/starter/main.css",
+		"/Users/Mac/code/wdi/wdi-atx-3-class/w01/d03/morning/README.md",
+		"/Users/Mac/code/wdi/wdi-atx-3-hw/w01/d01/cli golf hmwrk.txt ",
+		"/Users/Mac/Documents/Meet Me/Mac Page 2.html",
+		"/Users/Mac/Documents/Meet Me/index.html",
+		"/Users/Mac/code/html_lesson/file1.txt",
+		"/Users/Mac/code/wdi/my-favorite-things/books/dr_seuss/green_eggs.txt",
+		"/Users/Mac/code/wdi/my-favorite-things/books/dr_seuss/horton-hear.txt",
+		"/Users/Mac/code/git_class/helloagain.txt",
+		"/Users/Mac/Documents/function getInput() {",
+		"/Users/Mac/fundamentals/wdi-fundamentals-rps/app/js/rockpaperscissors.js",
+		"/Users/Mac/Documents/Meet Me/Mac Page 3.html",
+		"/Users/Mac/Projects/Chapter1/index.html."
+	],
+	"find":
+	{
+		"height": 28.0
+	},
+	"find_in_files":
+	{
+		"height": 96.0,
+		"where_history":
+		[
+			"<project>",
+			"/Users/Mac/code/wdi/tidy_bank"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			".fa",
+			"sarah",
+			"});\n",
+			"nvm",
+			"[",
+			"\n",
+			"[",
+			"nvm",
+			"prefix",
+			"nvm",
+			"path",
+			"\n",
+			"path",
+			"u",
+			"app",
+			"kidlog"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"incremental_find":
+	{
+		"height": 28.0
+	},
+	"input":
+	{
+		"height": 36.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.unsaved_changes":
+	{
+		"height": 30.0
+	},
+	"pinned_build_system": "",
+	"replace":
+	{
+		"height": 52.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 219.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+		"max_columns": 4
+	}
+}

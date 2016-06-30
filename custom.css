@@ -1,0 +1,186 @@
+.orange {
+    color: #FF5700;
+}
+
+.white {
+    color: #FFFFFF;
+}
+
+.darkGray {
+    color: #4E4E4E;
+}
+
+.opacity {
+    opacity: .5;
+}
+
+.thin {
+    font-weight: 200;
+}
+
+.row-eq-height {
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display: flex;
+}
+
+.body {
+    max-width: 73%;
+}
+
+
+
+h2 {
+    color: #FF5700;
+    font-size: 25px;
+}
+
+.app-header {
+    background-color: #FF5700;
+    margin: 0;
+    padding-top: 0px;
+    padding-bottom: 0px;
+    font-family: "arial narrow";
+}
+
+.app-hero {
+    background-color: #F8F8F8;
+    padding: 0;
+    font-family: "arial narrow";
+    height: 110px;
+}
+
+.jumbotron h1 {
+    font-size: 40px;
+    font-weight: 700;
+    margin-top: 30px;
+    margin-left: 0px;
+
+}
+
+.jumbotron p {
+    font-size: 15px;
+    font-weight: 700;
+}
+
+.banner{
+  max-width: 73% !important;
+}
+
+.navbar {
+    background-color: rgba(0,0,0,0);
+    opacity:
+    margin: 0 20% 0 20%;
+    border: 0 none;
+}
+
+
+.nav a {
+    color: black !important;
+    font-size: 13px !important;
+}
+
+ul {
+    padding-top: 25px;
+}
+
+li {
+    color: black;
+}
+
+.compass {
+    margin: 10px 0 0 0;
+    font-family: "arial narrow";
+}
+
+.contact {
+    margin: 5px 0 25px 0;
+}
+
+.lorem {
+    max-width: 80%;
+    opacity: .5;
+}
+
+.spanLeft {
+    display: block;
+    float: left;
+    /*margin-left: 10%;*/
+    padding-top: 5px;
+    text-align: right;
+}
+
+.spanRight {
+    display: block;
+    float: right;
+    width: 50%;
+    /*padding-left: 20%;*/
+    padding-top: 5px;
+    text-align: right;
+}
+
+.bar {
+    background-color: #4E4E4E;
+    height: 6px;
+}
+
+#formAll {
+margin-top: 15px;
+
+}
+
+.form-group {
+    border-radius: 0;
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+
+.form-control {
+    border-radius: 0;
+    margin-top: 0px;
+    margin-bottom: 5px;
+    border: 0 none;
+}
+
+textarea {
+    background-color: #F8F8F8 !important;
+}
+
+input {
+    background-color: #F8F8F8 !important;
+    padding-bottom: 25px;
+}
+
+.btn {
+    border-radius: 0;
+    color: #FFFFFF;
+    background-color: #FF5700 !important;
+    opacity: 10 !important;
+    border: 0 none;
+    margin-top: 5px;
+    width: 100px;
+}
+
+form .line {
+    margin-bottom: 0px;
+}
+
+.address {
+    margin-top: 15px;
+}
+
+.socialMedia {
+    margin-top: 10px;
+}
+
+.fa {
+    color: #CACACA;
+    font-size: 2.5em;
+    border-radius: 0;
+    margin-top: 20px;
+}
+
+.fa:hover {
+    color: #2F2F2F;
+}
